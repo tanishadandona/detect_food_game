@@ -7,15 +7,14 @@ import 'controllers/auth_controller.dart';
 
 //COLors
 
-var buttonColor=Colors.green[400];
-const borderColor=Colors.grey;
-const textColor= Colors.white;
+var buttonColor = Colors.green[400];
+const borderColor = Colors.lightBlueAccent;
+const textColor = Colors.white;
 
 //Firebase
-var firebaseAuth=FirebaseAuth.instance;
-var firebaseStorage=FirebaseStorage.instance;
-var firestore=FirebaseFirestore.instance;
-
+var firebaseAuth = FirebaseAuth.instance;
+var firebaseStorage = FirebaseStorage.instance;
+var firestore = FirebaseFirestore.instance;
 
 //Controller
-var authController=AuthController.instance;
+var authController = AuthController.instance;

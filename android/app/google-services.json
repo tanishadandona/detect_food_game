@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "203447796066",
-    "project_id": "detectfood-game",
-    "storage_bucket": "detectfood-game.appspot.com"
+    "project_number": "693773933827",
+    "project_id": "detect-game",
+    "storage_bucket": "detect-game.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:203447796066:android:02f19c4ed02b9310776c3b",
+        "mobilesdk_app_id": "1:693773933827:android:f35b02e6c6ece623a95d36",
         "android_client_info": {
           "package_name": "com.example.detectfood_game"
         }
       },
       "oauth_client": [
         {
-          "client_id": "203447796066-k10fh9tqtilgm6fjg4fi7gach2tt39vl.apps.googleusercontent.com",
+          "client_id": "693773933827-a4hk4makefheqbuc56qh0u03ppkqoqof.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB_1MDxpUOiSzprrFwCL_k-kNPsGOe9ffs"
+          "current_key": "AIzaSyA6D89WFfI_WuFAlaNa2DirCu0U-IMHOqg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "203447796066-k10fh9tqtilgm6fjg4fi7gach2tt39vl.apps.googleusercontent.com",
+              "client_id": "693773933827-a4hk4makefheqbuc56qh0u03ppkqoqof.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
